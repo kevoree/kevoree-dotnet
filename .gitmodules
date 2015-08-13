@@ -1,0 +1,3 @@
+[submodule "Annotation"]
+	path = Annotation
+	url = https://github.com/kevoree/kevoree-dotnet-annotation.git

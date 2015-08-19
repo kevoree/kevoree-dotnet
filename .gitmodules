@@ -4,3 +4,6 @@
 [submodule "Core/Api"]
 	path = Core/Api
 	url = git@github.com:kevoree/kevoree-dotnet-core-api.git
+[submodule "Core/Bootstrap"]
+	path = Core/Bootstrap
+	url = git@github.com:kevoree/kevoree-dotnet-core-bootstrap.git

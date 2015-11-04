@@ -1,0 +1,66 @@
+[submodule "kevoree-dotnet-model-generator"]
+	path = kevoree-dotnet-model-generator
+	url = git@github.com:kevoree/kevoree-dotnet-model-generator.git
+[submodule "kevoree-dotnet-core-bootstrap"]
+	path = kevoree-dotnet-core-bootstrap
+	url = git@github.com:kevoree/kevoree-dotnet-core-bootstrap.git
+[submodule "core/kevoree-dotnet-core-bootstrap"]
+	path = core/kevoree-dotnet-core-bootstrap
+	url = git@github.com:kevoree/kevoree-dotnet-core-bootstrap.git
+[submodule "core/kevoree-dotnet-core-kevscript"]
+	path = core/kevoree-dotnet-core-kevscript
+	url = git@github.com:kevoree/kevoree-dotnet-core-kevscript.git
+[submodule "core/kevoree-dotnet-core"]
+	path = core/kevoree-dotnet-core
+	url = git@github.com:kevoree/kevoree-dotnet-core.git
+[submodule "library/node/kevoree-dotnet-node"]
+	path = library/node/kevoree-dotnet-node
+	url = git@github.com:kevoree/kevoree-dotnet-node.git
+[submodule "library/utils/kevoree-dotnet-nuget-loader"]
+	path = library/utils/kevoree-dotnet-nuget-loader
+	url = git@github.com:kevoree/kevoree-dotnet-nuget-loader.git
+[submodule "library/component/kevoree-dotnet-comp-ticker"]
+	path = library/component/kevoree-dotnet-comp-ticker
+	url = git@github.com:kevoree/kevoree-dotnet-comp-ticker.git
+[submodule "library/component/kevoree-dotnet-comp-consoleprinter"]
+	path = library/component/kevoree-dotnet-comp-consoleprinter
+	url = git@github.com:kevoree/kevoree-dotnet-comp-consoleprinter.git
+[submodule "library/chan/kevoree-dotnet-chan-remotews"]
+	path = library/chan/kevoree-dotnet-chan-remotews
+	url = git@github.com:kevoree/kevoree-dotnet-chan-remotews.git
+[submodule "library/chan/kevoree-dotnet-chan-local"]
+	path = library/chan/kevoree-dotnet-chan-local
+	url = git@github.com:kevoree/kevoree-dotnet-chan-local.git
+[submodule "library/group/kevoree-dotnet-group-ws"]
+	path = library/group/kevoree-dotnet-group-ws
+	url = git@github.com:kevoree/kevoree-dotnet-group-ws.git
+[submodule "library/group/kevoree-dotnet-group-remotews"]
+	path = library/group/kevoree-dotnet-group-remotews
+	url = git@github.com:kevoree/kevoree-dotnet-group-remotews.git
+[submodule "core/kevoree-dotnet-core-api"]
+	path = core/kevoree-dotnet-core-api
+	url = git@github.com:kevoree/kevoree-dotnet-core-api.git
+[submodule "library/utils/kevoree-dotnet-lib-annotation"]
+	path = library/utils/kevoree-dotnet-lib-annotation
+	url = git@github.com:kevoree/kevoree-dotnet-lib-annotation.git
+[submodule "library/utils/kevoree-dotnet-registry-client"]
+	path = library/utils/kevoree-dotnet-registry-client
+	url = git@github.com:kevoree/kevoree-dotnet-registry-client.git
+[submodule "library/utils/kevoree-dotnet-log"]
+	path = library/utils/kevoree-dotnet-log
+	url = git@github.com:kevoree/kevoree-dotnet-log.git
+[submodule "library/utils/kevoree-dotnet-log-api"]
+	path = library/utils/kevoree-dotnet-log-api
+	url = git@github.com:kevoree/kevoree-dotnet-log-api.git
+[submodule "core/kevoree-dotnet-annotation"]
+	path = core/kevoree-dotnet-annotation
+	url = git@github.com:kevoree/kevoree-dotnet-annotation.git
+[submodule "library/chan/kevoree-dotnet-chan-ws"]
+	path = library/chan/kevoree-dotnet-chan-ws
+	url = git@github.com:kevoree/kevoree-dotnet-chan-ws.git
+[submodule "core/kevoree-dotnet-core-model"]
+	path = core/kevoree-dotnet-core-model
+	url = git@github.com:kevoree/kevoree-dotnet-core-model.git
+[submodule "kevoree-dotnet-ikvm"]
+	path = kevoree-dotnet-ikvm
+	url = git@github.com:kevoree/kevoree-dotnet-ikvm.git
